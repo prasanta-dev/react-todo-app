@@ -45,8 +45,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-(Add your Vercel link here after deployment)
-
+https://react-todo-app-seven-xi.vercel.app/
 ---
 
 ## 🎯 Future Improvements
